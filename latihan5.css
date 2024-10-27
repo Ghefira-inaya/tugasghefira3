@@ -1,0 +1,64 @@
+* { 
+	font-family: MV Boli;
+}
+
+h1, h2 {
+	color: lightgray;
+}
+	body {
+	background-image: url("/latihan/images/bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	image-rendering: -webkit-optimize-contrast;
+  	image-rendering: crisp-edges;
+	
+}
+h1 {
+	text-align: center;
+	background-color: darkgray; color: whitesmoke;
+
+}
+p {
+	text-align: justify;
+	font-size: 16px;
+	color: black;
+	float: left;
+	padding: 10px;
+}
+h2 {
+	background-color: #fcfcfc; color: black;
+
+}
+div {
+	padding: 20px;
+	padding-bottom: 60px;
+	padding-top: 30px;
+	padding-left: 50px;
+	padding-right: 50px;
+	height: 550px;
+	width: 900px;
+
+	background-color: rgba(300, 300, 300, 0.7);
+	margin: 100px;
+
+}
+
+img {
+	width: 350px;
+	height:430px;
+	margin: 2px;
+}
+
+.border {
+	border-style: dashed;
+	border-color: royalblue;
+	border-radius: 2px;
+	margin: 5px;
+}
+
+address {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+}
